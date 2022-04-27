@@ -1,0 +1,15 @@
+computer - bilgisayar
+Engineer - muhendis
+school - okul 
+exists  var olmak
+Exist - Var olmak 
+Free - Ucretsiz
+Table - Masa 
+Accept - Kabul Etmek
+Computer - Bilgisayar
+Engineer - Muhendis
+School - Okul 
+Go - Gitmek 
+And - ve 
+Fly- Ucmak
+Call - Cagirmak
